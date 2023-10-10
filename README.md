@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, Java**
+- 🦦 I’m currently working on **Python, Java**
 
 - 🌱 I’m currently learning **Full stack frame work: React, Nodejs**
 
