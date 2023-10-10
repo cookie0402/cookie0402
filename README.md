@@ -47,13 +47,13 @@
 <td width="50%" align="center">
   
  
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=1010nishant&theme=blue_navy&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookie0402&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cookie0402&langs_count=6&theme=blue_navy&layout=compact&hide_border=true"
           alt="1999AZZAR :: overall Top Langs " /></a>
   
   </td>
