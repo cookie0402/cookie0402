@@ -26,7 +26,6 @@
 
 - 🌱 I’m currently learning **Full stack frame work: React, Nodejs**
 
-- ☁️ I've keen interest in cloud Microservices. So,I'm learning **Kubernetes, Docker**
 
 <!--- - 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
 
